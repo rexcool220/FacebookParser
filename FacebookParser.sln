@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookParser", "FacebookParser\FacebookParser.csproj", "{502F525B-075A-4429-96FC-49E34082011E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{21B4CDE0-023A-4ED0-90BA-B8D7B10212A5}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{502F525B-075A-4429-96FC-49E34082011E}.Debug|x86.ActiveCfg = Debug|x86
+		{502F525B-075A-4429-96FC-49E34082011E}.Debug|x86.Build.0 = Debug|x86
+		{502F525B-075A-4429-96FC-49E34082011E}.Release|x86.ActiveCfg = Release|x86
+		{502F525B-075A-4429-96FC-49E34082011E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
